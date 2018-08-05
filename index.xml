@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>一码事</title>
+    <title>壹碼事</title>
     <link>https://ruipengliu.github.io/</link>
-    <description>Recent content on 一码事</description>
+    <description>Recent content on 壹碼事</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright &amp;copy; 2017 - Author Ruipengliu</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2018 - Author Ruipengliu·一码</copyright>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ruipengliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,18 @@
     <item>
       <title>关于</title>
       <link>https://ruipengliu.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ruipengliu.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <description>无月夜稠浓， 近灯星暗朦。 渺渺风盈野， 咫尺水映穹。 ruipengliu@live.cn</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://ruipengliu.github.io/posts/hello/</link>
+      <link>https://ruipengliu.github.io/others/hello/</link>
       <pubDate>Sun, 05 Aug 2018 16:10:09 +0800</pubDate>
       
-      <guid>https://ruipengliu.github.io/posts/hello/</guid>
+      <guid>https://ruipengliu.github.io/others/hello/</guid>
       <description>sdaadddds</description>
     </item>
     

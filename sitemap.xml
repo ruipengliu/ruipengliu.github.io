@@ -3,17 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ruipengliu.github.io/posts/</loc>
+    <loc>https://ruipengliu.github.io/mass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ruipengliu.github.io/others/</loc>
     <lastmod>2018-08-05T16:10:09+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ruipengliu.github.io/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ruipengliu.github.io/posts/hello/</loc>
+    <loc>https://ruipengliu.github.io/others/hello/</loc>
     <lastmod>2018-08-05T16:10:09+08:00</lastmod>
   </url>
   
@@ -29,7 +33,7 @@
   
   <url>
     <loc>https://ruipengliu.github.io/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂念 on 壹碼事</title>
+    <link>https://ruipengliu.github.io/others/</link>
+    <description>Recent content in 杂念 on 壹碼事</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Author Ruipengliu·一码</copyright>
+    <lastBuildDate>Sun, 05 Aug 2018 16:10:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://ruipengliu.github.io/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://ruipengliu.github.io/others/hello/</link>
+      <pubDate>Sun, 05 Aug 2018 16:10:09 +0800</pubDate>
+      
+      <guid>https://ruipengliu.github.io/others/hello/</guid>
+      <description>sdaadddds</description>
+    </item>
+    
+  </channel>
+</rss>
